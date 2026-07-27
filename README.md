@@ -6,7 +6,7 @@ Alongside the PhD, I build **reproducible, Findable, Accessible, Interoperable, 
 
 ## 📪 Contact
 
-- 🎓[Google Scholar]([https://scholar.google.com.au/citations?user=IIbvtFUAAAAJ](https://scholar.google.com.au/citations?user=IIbvtFUAAAAJ&hl=en)) | 🆔[ORCID 0000-0001-6794-7571](https://orcid.org/0000-0001-6794-7571) | 🔗[LinkedIn](https://www.linkedin.com/in/xinlong-liu-b2460a217/)
+- 🎓[Google Scholar](https://scholar.google.com.au/citations?user=IIbvtFUAAAAJ&hl=en) | 🆔[ORCID 0000-0001-6794-7571](https://orcid.org/0000-0001-6794-7571) | 🔗[LinkedIn](https://www.linkedin.com/in/xinlong-liu-b2460a217/)
 - Or just ✉️[email](mailto:xinlong.liu@utas.edu.au) me about altimetry, sea ice, or Southern Ocean data.
 
 ---

@@ -38,17 +38,17 @@ Alongside the PhD, I build **reproducible, Findable, Accessible, Interoperable, 
 
 ## 📂 Projects and 🧩 Service
 
-- **📂Antarctic Snow and Sea-Ice Thickness from Satellite Altimetry** *(12.2022 - present)*<br/>
-  - PhD research retrieving freeboard, snow depth, and sea-ice thickness from CryoSat-2, ICESat-2, Envisat, and CRYO2ICE
-  - Gridded circumpolar products and uncertainty budgets built on the NCI Gadi HPC in Python (xarray, cartopy)
-
-- **📂East Antarctic Monitoring Program (EAMP), Australian Antarctic Division** *(04.2026 - present)*<br/>
+- **📂East Antarctic Monitoring Program (EAMP), Australian Antarctic Division** *(04.2026 - Present)*<br/>
   - Compiled and quality-controlled the 2025 emperor-penguin colony inventory (71 colonies) with habitat classification and South-Polar-Stereographic mapping
   - Consolidated RSV *Nuyina* and *Aurora Australis* underway ocean and atmosphere observations into long-format Parquet archives with provenance and QC documentation
 
 - **📂[AMSA Marine Traffic Data Uplift], IMOS / AODN** *(09.2025 - 12.2025)*<br/>
   - QA/QC and scalable ingestion of monthly vessel-tracking releases into analysis-ready Parquet and Zarr
   - H3 hexagonal spatial indexing for gridded, model-ready aggregation feeding State of the Environment reporting
+
+- **📂Antarctic Snow and Sea-Ice Thickness from Satellite Altimetry** *(12.2022 - Present)*<br/>
+  - PhD research retrieving freeboard, snow depth, and sea-ice thickness from CryoSat-2, ICESat-2, Envisat, and CRYO2ICE
+  - Gridded circumpolar products and uncertainty budgets built on the NCI Gadi HPC in Python (xarray, cartopy)
 
 - **🧩Early-Career Group Reviewer, IPCC AR7 WGI**<br/>
   - Contributing review comments on the Working Group I assessment cycle
@@ -83,7 +83,7 @@ Alongside the PhD, I build **reproducible, Findable, Accessible, Interoperable, 
   <img src="https://img.shields.io/badge/NetCDF%20%7C%20Zarr%20%7C%20Parquet-4B8BBE?style=for-the-badge"/>
 </p>
 
-**Data and platforms:** NCI Gadi HPC, AODN/IMOS, Australian Antarctic Data Centre, NSIDC, ESA CryoSat-2 and Envisat archives, NASA ICESat-2
+**Data and platforms:** NCI Gadi HPC, AODN/IMOS, Australian Antarctic Data Centre (AADC), National Snow and Ice Data Center (NSIDC), ESA CryoSat-2 and Envisat archives, NASA ICESat-2
 
 ---
 

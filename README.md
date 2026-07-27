@@ -23,7 +23,7 @@ Alongside the PhD, I build **reproducible, Findable, Accessible, Interoperable, 
 
 ## 📚 Selected Publications
 
-*\* corresponding author. Full list on [Google Scholar](https://scholar.google.com.au/citations?user=IIbvtFUAAAAJ).*
+*\* Corresponding author. Full list on [Google Scholar](https://scholar.google.com.au/citations?user=IIbvtFUAAAAJ&hl=en).*
 
 **Peer-reviewed**
 - **Liu, X.**\*, Yang, C. & Chen, Y. (2026). Standing Meanders of the Antarctic Circumpolar Current: Evidence for Ridge-Controlled Eddy Saturation. *JGR: Oceans*, 131(2), e2025JC023527. [DOI](https://doi.org/10.1029/2025JC023527)<br/>
@@ -33,9 +33,6 @@ Alongside the PhD, I build **reproducible, Findable, Accessible, Interoperable, 
 - **Liu, X.**\*, Fraser, A.D., Corney, S.P., Tilling, R.L. & Heil, P. (2026). Bulk Sea-Ice Density and Ku-Band Penetration Co-Dominate the Uncertainty in Antarctic Sea-Ice Thickness From Coupled Laser–Radar Altimetry Retrieval. *Remote Sensing of Environment*. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-662/#discussion)<br/>
 - **Liu, X.**\*, Fraser, A.D., Tilling, R.L., Heil, P. & Corney, S.P. (2026). Robust Regional Contrast but Penetration-Sensitive Snow Thickness over Sea Ice from Multi-Winter Antarctic CRYO2ICE Observations. *Earth and Space Science*. [Preprint](https://doi.org/10.22541/essoar.15002866/v1)<br/>
 - **Liu, X.**\*, Tilling, R.L., Corney, S.P., Fraser, A.D. & Heil, P. (2026). Antarctic Sea-Ice Freeboard from Envisat and CryoSat-2: Attributing Inter-Product Spread to Snow Assumptions and Radar-Retrieval Baselines. *The Cryosphere*. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7117568)<br/>
-
-**In preparation**
-- Divergent structural adjustment of Southern Ocean standing meanders at four topographic hotspots
 
 ---
 

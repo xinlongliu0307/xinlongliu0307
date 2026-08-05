@@ -26,7 +26,7 @@ Alongside the PhD, I build **reproducible, Findable, Accessible, Interoperable, 
 *\* Corresponding author. Full list on [Google Scholar](https://scholar.google.com.au/citations?user=IIbvtFUAAAAJ&hl=en).*
 
 **Peer-reviewed**
-- **Liu, X.**\*, Fraser, A.D., Tilling, R.L., Heil, P. & Corney, S.P. (2026). Robust Regional Contrast but Penetration-Sensitive Snow Thickness over Sea Ice from Multi-Winter Antarctic CRYO2ICE Observations. *Earth and Space Science*. [Preprint](https://doi.org/10.22541/essoar.15002866/v1)<br/>
+- **Liu, X.**\*, Fraser, A.D., Tilling, R.L., Heil, P. & Corney, S.P. (2026). Robust Regional Contrast but Penetration-Sensitive Snow Thickness over Sea Ice from Multi-Winter Antarctic CRYO2ICE Observations. *Earth and Space Science*. [DOI](https://doi.org/10.1029/2026EA005247)<br/>
 - **Liu, X.**\*, Yang, C. & Chen, Y. (2026). Standing Meanders of the Antarctic Circumpolar Current: Evidence for Ridge-Controlled Eddy Saturation. *JGR: Oceans*, 131(2), e2025JC023527. [DOI](https://doi.org/10.1029/2025JC023527)<br/>
 - **Liu, X.**\*, Meyer, A. & Chapman, C.C. (2024). Characteristics and Trends of the Campbell Plateau Meander in the Southern Ocean: 1993-2020. *JGR: Oceans*, 129(2), e2023JC019876. [DOI](https://doi.org/10.1029/2023JC019876)
 

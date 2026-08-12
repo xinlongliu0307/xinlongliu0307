@@ -39,7 +39,7 @@ Alongside the PhD I build **reproducible, FAIR-aligned data pipelines** 🐍 for
 
 ## 📂 Projects and 🧩 Service
 
-- **📂East Antarctic Monitoring Program (EAMP), Australian Antarctic Division** *(04.2026 - Present)*<br/>
+- **📂East Antarctic Monitoring Program (EAMP), Australian Antarctic Division** *(04.2026 - 08.2026)*<br/>
   - Compiled and quality-controlled the 2025 emperor-penguin colony inventory (71 colonies) with habitat classification and South-Polar-Stereographic mapping
   - Consolidated RSV *Nuyina* and *Aurora Australis* underway ocean and atmosphere observations into long-format Parquet archives with provenance and QC documentation
 

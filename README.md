@@ -32,8 +32,8 @@ Alongside the PhD I build **reproducible, FAIR-aligned data pipelines** 🐍 for
 
 **Under review**
 - Ma, X., Shi, J.\*, Holbrook, N.J., **Liu, X.**, Zhong, R., Mandal, M., Zhou, T., Hu, X. & Yang, Q. (2026). Australian East Coast Lows Remotely Intensify the Amundsen Sea Low during the Austral Cool Season. *Journal of Geophysical Research: Atmospheres*.
-- **Liu, X.**\*, Fraser, A.D., Corney, S.P., Tilling, R.L. & Heil, P. (2026). Bulk Sea-Ice Density and Ku-Band Penetration Co-Dominate the Uncertainty in Antarctic Sea-Ice Thickness From Coupled Laser–Radar Altimetry Retrieval. *Remote Sensing of Environment*. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-662/#discussion)<br/>
-- **Liu, X.**\*, Tilling, R.L., Corney, S.P., Fraser, A.D. & Heil, P. (2026). Antarctic Sea-Ice Freeboard from Envisat and CryoSat-2: Attributing Inter-Product Spread to Snow Assumptions and Radar-Retrieval Baselines. *The Cryosphere*. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7117568)<br/>
+- **Liu, X.**\*, Fraser, A.D., Corney, S.P., Tilling, R.L. & Heil, P. (2026). Bulk Sea-Ice Density and Ku-Band Penetration Co-Dominate the Uncertainty in Antarctic Sea-Ice Thickness From Coupled Laser–Radar Altimetry Retrieval. *Remote Sensing of Environment*. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7117568)<br/>
+- **Liu, X.**\*, Tilling, R.L., Corney, S.P., Fraser, A.D. & Heil, P. (2026). Antarctic Sea-Ice Freeboard from Envisat and CryoSat-2: Attributing Inter-Product Spread to Snow Assumptions and Radar-Retrieval Baselines. *The Cryosphere*. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-662/#discussion)<br/>
 
 ---
 

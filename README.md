@@ -43,6 +43,10 @@ Alongside the PhD I build **reproducible, FAIR-aligned data pipelines** 🐍 for
   - Compiled and quality-controlled the 2025 emperor-penguin colony inventory (71 colonies) with habitat classification and South-Polar-Stereographic mapping
   - Consolidated RSV *Nuyina* and *Aurora Australis* underway ocean and atmosphere observations into long-format Parquet archives with provenance and QC documentation
 
+- **📂East Antarctic Monitoring Program (EAMP), Australian Antarctic Division** *(04.2026 - 08.2026)*<br/>
+  - Compiled and quality-controlled the 2025 emperor-penguin colony inventory (71 colonies) with habitat classification and South-Polar-Stereographic mapping
+  - Consolidated RSV *Nuyina* and *Aurora Australis* underway ocean and atmosphere observations into long-format Parquet archives with provenance and QC documentation
+
 - **📂AMSA Marine Traffic Data Uplift, IMOS / AODN** *(09.2025 - 12.2025)*<br/>
   - QA/QC and scalable ingestion of monthly vessel-tracking releases into analysis-ready Parquet and Zarr
   - H3 hexagonal spatial indexing for gridded, model-ready aggregation feeding State of the Environment reporting

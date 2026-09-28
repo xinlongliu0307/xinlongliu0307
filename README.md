@@ -39,9 +39,12 @@ Alongside the PhD I build **reproducible, FAIR-aligned data pipelines** 🐍 for
 
 ## 📂 Projects and 🧩 Service
 
-- **📂East Antarctic Monitoring Program (EAMP), Australian Antarctic Division** *(04.2026 - 08.2026)*<br/>
-  - Compiled and quality-controlled the 2025 emperor-penguin colony inventory (71 colonies) with habitat classification and South-Polar-Stereographic mapping
-  - Consolidated RSV *Nuyina* and *Aurora Australis* underway ocean and atmosphere observations into long-format Parquet archives with provenance and QC documentation
+- **📂Australian Antarctic Program Partnership** *(09.2026 - 06.2027)*<br/>
+  - Developing a circumpolar gridded record of snow depth and sea-ice thickness over Antarctic sea ice from coincident CryoSat-2 and ICESat-2 (CRYO2ICE) altimetry, spanning August 2022 to the present across six Antarctic sectors
+  - Building a reproducible processing pipeline on the NCI Gadi supercomputer, from quality control of along-track retrievals to gridded seasonal composites
+  - Characterising uncertainty for each grid cell, with sample counts and regional uncertainty budgets
+  - Validating against passive-microwave, ship-based and ESA Climate Change Initiative reference datasets
+  - Preparing the dataset for open release through the Australian Antarctic Data Centre, with CF-compliant NetCDF files, a product user guide and a DOI
 
 - **📂East Antarctic Monitoring Program (EAMP), Australian Antarctic Division** *(04.2026 - 08.2026)*<br/>
   - Compiled and quality-controlled the 2025 emperor-penguin colony inventory (71 colonies) with habitat classification and South-Polar-Stereographic mapping

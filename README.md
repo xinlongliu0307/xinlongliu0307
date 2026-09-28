@@ -1,6 +1,6 @@
 # Hi there, I'm Xinlong Liu 👋
 
-🧊 I submitted my PhD thesis in August 2026 at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/), University of Tasmania, supervised by Dr Alexander D. Fraser, Assoc. Prof. Stuart P. Corney, Dr Rachel L. Tilling, and Prof. Petra Heil. My research sits across two linked strands: **Antarctic snow depth and sea-ice thickness from satellite altimetry** 🛰️ (CryoSat-2, ICESat-2, Envisat, and near-coincident CRYO2ICE pairs), and **Antarctic Circumpolar Current standing meanders** 🌊 and their imprint on Southern Ocean surface properties.
+🧊 I submitted my PhD thesis in August 2026 at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/), University of Tasmania, supervised by Assoc. Prof. Stuart P. Corney, Dr Alexander D. Fraser, Dr Rachel L. Tilling, and Prof. Petra Heil. My research sits across two linked strands: **Antarctic snow depth and sea-ice thickness from satellite altimetry** 🛰️ (CryoSat-2, ICESat-2, Envisat, and near-coincident CRYO2ICE pairs), and **Antarctic Circumpolar Current standing meanders** 🌊 and their imprint on Southern Ocean surface properties.
 
 Alongside the PhD I build **reproducible, FAIR-aligned data pipelines** 🐍 for the Australian Antarctic Division and the Integrated Marine Observing System. I am now based in Hobart and relocating to Perth, Western Australia, and I am open to postdoctoral and applied data-science roles in polar and ocean science.
 

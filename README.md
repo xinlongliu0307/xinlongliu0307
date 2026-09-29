@@ -54,7 +54,7 @@ Alongside the PhD I build **reproducible, FAIR-aligned data pipelines** 🐍 for
   - QA/QC and scalable ingestion of monthly vessel-tracking releases into analysis-ready Parquet and Zarr
   - H3 hexagonal spatial indexing for gridded, model-ready aggregation feeding State of the Environment reporting
 
-- **📂Antarctic Snow and Sea-Ice Thickness from Satellite Altimetry** *(12.2022 - Present)*<br/>
+- **📂Antarctic Snow and Sea-Ice Thickness from Satellite Altimetry** *(12.2022 - 08.2026)*<br/>
   - PhD research retrieving freeboard, snow depth, and sea-ice thickness from CryoSat-2, ICESat-2, Envisat, and CRYO2ICE
   - Gridded circumpolar products and uncertainty budgets built on the NCI Gadi HPC in Python (xarray, cartopy)
 

@@ -97,6 +97,7 @@ Alongside the PhD I build **reproducible, FAIR-aligned data pipelines** 🐍 for
 
 ## 🏆 Awards, Scholarships and Grants
 
+- **Teaching Commendation – KSA205 Introduction to Oceanography** (University of Tasmania, 09.2026)
 - **Small Science Project Grant** ([Australian Antarctic Program Partnership (AAPP)](https://aappartnership.org.au/), 02.2026)
   - "Gridded Antarctic Snow and Sea-Ice Thickness from CRYO2ICE: A Pilot Community Product"
 - **Mertz Fellowship 2023** (Embassy of Switzerland in Australia & Swiss Polar Institute, 11.2023)

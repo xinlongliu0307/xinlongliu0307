@@ -31,8 +31,8 @@ Alongside the PhD I build **reproducible, FAIR-aligned data pipelines** 🐍 for
 - **Liu, X.**\*, Meyer, A. & Chapman, C.C. (2024). Characteristics and Trends of the Campbell Plateau Meander in the Southern Ocean: 1993-2020. *Journal of Geophysical Research: Oceans*, 129 (2), e2023JC019876. [DOI](https://doi.org/10.1029/2023JC019876)
 
 **Under review**
-- Ma, X., Shi, J.\*, Holbrook, N.J., **Liu, X.**, Zhong, R., Mandal, M., Zhou, T., Hu, X. & Yang, Q. (2026). Australian East Coast Lows Remotely Intensify the Amundsen Sea Low during the Austral Cool Season. *Journal of Geophysical Research: Atmospheres*.
 - **Liu, X.**\*, Tilling, R.L., Fraser, A.D., Corney, S.P. & Heil, P. (2026). Bulk sea-ice density and Ku-band penetration co-dominate the parametric uncertainty of Antarctic sea-ice thickness retrieval from coupled laser-radar altimetry. *Remote Sensing of Environment*. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7117568)<br/>
+- Ma, X., Shi, J.\*, Holbrook, N.J., **Liu, X.**, Zhong, R., Mandal, M., Zhou, T., Hu, X. & Yang, Q. (2026). Australian East Coast Lows Remotely Intensify the Amundsen Sea Low during the Austral Cool Season. *Journal of Geophysical Research: Atmospheres*.
 - **Liu, X.**\*, Tilling, R.L., Corney, S.P., Fraser, A.D. & Heil, P. (2026). Antarctic Sea-Ice Freeboard from Envisat and CryoSat-2: Attributing Inter-Product Spread to Snow Assumptions and Radar-Retrieval Baselines. *The Cryosphere*. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-662/#discussion)<br/>
 
 ---

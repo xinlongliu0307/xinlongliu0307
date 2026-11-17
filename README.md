@@ -35,6 +35,9 @@ Alongside the PhD, I build **reproducible, FAIR-aligned data pipelines** 🐍 fo
 - Ma, X., Shi, J.\*, Holbrook, N.J., **Liu, X.**, Zhong, R., Mandal, M., Zhou, T., Hu, X. & Yang, Q. (2026). Australian East Coast Lows Remotely Intensify the Amundsen Sea Low during the Austral Cool Season. *Journal of Geophysical Research: Atmospheres*.
 - **Liu, X.**\*, Tilling, R.L., Corney, S.P., Fraser, A.D. & Heil, P. (2026). Antarctic Sea-Ice Freeboard from Envisat and CryoSat-2: Attributing Inter-Product Spread to Snow Assumptions and Radar-Retrieval Baselines. *The Cryosphere*. [Preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-662/#discussion)<br/>
 
+**White papers and science plans** *(not peer-reviewed)*
+- Arndt, S., Dadic, R., Spreen, G., Tedesco, L., Vancoppenolle, M., et al., including **Liu, X.** (2026). Antarctica InSync Scientific Theme 2: Rapid Sea Ice Decline and its Causes and Consequences [White Paper]. *Scientific Committee on Antarctic Research*, 16 pp. [Link](https://research-portal.uu.nl/en/publications/antarctica-insync-scientific-theme-2-rapid-sea-ice-decline-and-it/)
+
 ---
 
 ## 📂 Projects and 🧩 Service

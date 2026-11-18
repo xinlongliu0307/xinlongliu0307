@@ -17,6 +17,7 @@ Alongside the PhD, I build **reproducible, FAIR-aligned data pipelines** 🐍 fo
 - Snow depth and freeboard retrieval from radar and laser altimetry
 - Uncertainty attribution in altimetry-derived sea-ice thickness
 - Cryosphere-ocean interactions and Southern Ocean circulation
+- Southern Ocean fronts, standing meanders and eddies; meso-scale and sub-mesoscale processes
 - Reproducible scientific workflows and open, FAIR-aligned polar data
 
 ---
